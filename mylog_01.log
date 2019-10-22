@@ -1,0 +1,12 @@
+INFO:root:File d:\Downloads\Saint-Petersburg.mp4 has been opened
+INFO:root:File operations required 0.023001432418823242 seconds
+ERROR:root:[Errno 2] No such file or directory: 'd:\\Downloads\\Saint-Petersburg.mp4'
+INFO:root:File operations required 0.0004999637603759766 seconds
+INFO:root:File d:\Downloads\Image 2019-01-31 at 06.36.00.jpeg has been opened
+INFO:root:File operations required 0.0005004405975341797 seconds
+ERROR:root:[Errno 2] No such file or directory: 'd:\\Downloads\\Image 2019-01-31 at 06.36.00.jpeg'
+INFO:root:File operations required 0.0 seconds
+ERROR:root:[Errno 2] No such file or directory: 'd:\\Downloads\\Image 2019-01-31 at 06.36.00.jpeg'
+INFO:root:File operations required 0.0010001659393310547 seconds
+ERROR:root:[Errno 2] No such file or directory: 'd:\\Downloads\\Image 2019-01-31 at 06.36.00.jpeg'
+INFO:root:File operations required 0.0009999275207519531 seconds
